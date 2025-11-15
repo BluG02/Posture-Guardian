@@ -26,3 +26,6 @@ Run main.py file (in person)
 First, we tried to pause the detection with **Fist**✊ sign, but fist was so common hand gesture so detection pasued when we didn't intend. So we changed to "Victory" sign.
 We tried to build GUI, but there were some issues.
 We wanted to collect 7-days data and visualize it, but we don't have enough time to test 7-days.
+
++ notification for future revision
+in state_manager, some "fist" variables are included in, it doesnt't matter now for process. But in the future when you want to use this with some extra functions, you maybe re-type this "fist" to "victory" variable first.
